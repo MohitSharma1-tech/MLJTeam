@@ -1,0 +1,7 @@
+Com\pages\PaymentSteps.class
+Com\StepDefination\PaymentPage.class
+Com\pages\loginPageStep.class
+Com\Myntra\Com\Myntra\AppTest.class
+Com\Runner\TestRunner.class
+Com\StepDefination\loginPage.class
+Com\StepDefination\ProductPage.class
